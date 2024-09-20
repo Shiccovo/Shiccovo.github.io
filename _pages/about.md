@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shicheng Zhou"
+title: "Shicheng (Ethan) Zhou"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,8 +14,9 @@ Looking for a Research Assistant Position for Spring 2025, If you are interested
 
 Recent Updates
 ======
-May 2025 - 
-It's an honor to represent UMN in the ICPC North America Championship!
+April 2024 - Excited to join Professor Qianwen Wang's lab and work together!
+
+May 2023 - It's an honor to represent UMN in the ICPC North America Championship!
 https://cse.umn.edu/cs/news/cse-undergraduate-team-advances-icpc-national-competition
 
 Feb 2023 - Gold Medal in ICPC Regional Competition! And advance to the North American Championships.
