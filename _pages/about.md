@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Senior-year undergraduate student at the University of Minnesota. Double Major in Mathematics and Computer Science. Interested in Data visualization and Human-Computer Interaction, I enjoy creating things that bring convenience and happiness to people.
+
 I enjoy photography and cooking, and I especially love eating. When I'm feeling down, having some dessert and soda can lift my spirits.
 
 Looking for a Research Assistant Position for Spring 2025, If you are interested in me, feel free to contact me!
