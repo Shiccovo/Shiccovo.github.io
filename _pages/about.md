@@ -15,9 +15,11 @@ Looking for a Research Assistant Position for Spring 2025, If you are interested
 
 Recent Updates
 ======
-Sept 2024 - Applying for graduate! Where is my next 
+Sept 2024 - Applying for graduation! Looking for the next destination
 
 April 2024 - Excited to join Professor Qianwen Wang's lab and work together!
+
+Sept 2024 - Finish my GRE exam, Got a 334/340 score!
 
 May 2023 - <a href="https://cse.umn.edu/cs/news/cse-undergraduate-team-advances-icpc-national-competition" target="_blank">May 2025 - It’s an honor to represent UMN in the ICPC North America Championship!</a>
 
