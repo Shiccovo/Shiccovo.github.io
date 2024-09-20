@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Senior-year undergraduate student at the University of Minnesota. Double Major in Mathematics and Computer Science.
+Senior-year undergraduate student at the University of Minnesota. Double Major in Mathematics and Computer Science. Interested in Data visualization and Human-Computer Interaction, I enjoy creating things that bring convenience and happiness to people.
+I enjoy photography and cooking, and I especially love eating. When I'm feeling down, having some dessert and soda can lift my spirits.
 
 Looking for a Research Assistant Position for Spring 2025, If you are interested in me, feel free to contact me!
 
 Recent Updates
 ======
+Sept 2024 - Applying for graduate! Where is my next 
+
 April 2024 - Excited to join Professor Qianwen Wang's lab and work together!
 
 May 2023 - <a href="https://cse.umn.edu/cs/news/cse-undergraduate-team-advances-icpc-national-competition" target="_blank">May 2025 - It’s an honor to represent UMN in the ICPC North America Championship!</a>
